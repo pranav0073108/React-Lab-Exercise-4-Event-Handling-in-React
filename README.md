@@ -1,7 +1,7 @@
 # React-Lab-Exercise-4-Event-Handling-in-React
 
-## Name : Moulishwar G
-## Register number : 2305001020
+## Name : PRANAV K
+## Register number : 2305001026
 
 # Aim
 To understand and implement event handling in React using events such as onClick, onChange, and onSubmit.
